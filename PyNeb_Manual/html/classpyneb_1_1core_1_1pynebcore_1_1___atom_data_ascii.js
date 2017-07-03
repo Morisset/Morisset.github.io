@@ -1,0 +1,25 @@
+var classpyneb_1_1core_1_1pynebcore_1_1___atom_data_ascii =
+[
+    [ "__init__", "classpyneb_1_1core_1_1pynebcore_1_1___atom_data_ascii.html#ac775ee34451fdfa742b318538164070e", null ],
+    [ "getA", "classpyneb_1_1core_1_1pynebcore_1_1___atom_data_ascii.html#a17192519660871ef6a77e6bdad6f580d", null ],
+    [ "getEnergy", "classpyneb_1_1core_1_1pynebcore_1_1___atom_data_ascii.html#a8406acc27904d955ee4dbb458f60db52", null ],
+    [ "getSources", "classpyneb_1_1core_1_1pynebcore_1_1___atom_data_ascii.html#ada746cff051b4eefa5f61aa4ad0e7fa6", null ],
+    [ "getStatWeight", "classpyneb_1_1core_1_1pynebcore_1_1___atom_data_ascii.html#a00fb8d8bc6381e46ebb1b76b2770442a", null ],
+    [ "initWaves", "classpyneb_1_1core_1_1pynebcore_1_1___atom_data_ascii.html#aecb5df9a52e3983689ccddc2c20cc6f0", null ],
+    [ "printSources", "classpyneb_1_1core_1_1pynebcore_1_1___atom_data_ascii.html#a8391e786a420d63ed15d4efd3f04aad5", null ],
+    [ "atom", "classpyneb_1_1core_1_1pynebcore_1_1___atom_data_ascii.html#a0c5c7091b1d8a95d9bee2744d713f5c9", null ],
+    [ "atomFile", "classpyneb_1_1core_1_1pynebcore_1_1___atom_data_ascii.html#afa3c4660b3bcf1e2c199413048b9209e", null ],
+    [ "atomNLevels", "classpyneb_1_1core_1_1pynebcore_1_1___atom_data_ascii.html#ae9ca7d9b8e6463826cd148ff606cbc1c", null ],
+    [ "atomPath", "classpyneb_1_1core_1_1pynebcore_1_1___atom_data_ascii.html#a18178a28ecf0c7f251d0974c2097b214", null ],
+    [ "calling", "classpyneb_1_1core_1_1pynebcore_1_1___atom_data_ascii.html#ab25fa7ebe84b603684dee62410c1e34c", null ],
+    [ "comments", "classpyneb_1_1core_1_1pynebcore_1_1___atom_data_ascii.html#a64b8b36116751d566275b722e40bb3a7", null ],
+    [ "E_in_vacuum", "classpyneb_1_1core_1_1pynebcore_1_1___atom_data_ascii.html#a9ebe0987aa5ded08c781ed3b5feb4d8a", null ],
+    [ "elem", "classpyneb_1_1core_1_1pynebcore_1_1___atom_data_ascii.html#a62e73dc66c7aff7941c5ce94e808c23a", null ],
+    [ "gs", "classpyneb_1_1core_1_1pynebcore_1_1___atom_data_ascii.html#a7cdd347489383ef85cb3526af2a7a0aa", null ],
+    [ "log_", "classpyneb_1_1core_1_1pynebcore_1_1___atom_data_ascii.html#afd87151907f32bc0dc45f0171b61374e", null ],
+    [ "name", "classpyneb_1_1core_1_1pynebcore_1_1___atom_data_ascii.html#ab74e6bf80237ddc4109968cedc58c151", null ],
+    [ "NIST", "classpyneb_1_1core_1_1pynebcore_1_1___atom_data_ascii.html#a6d03226c81aa049b486e97a3462a794b", null ],
+    [ "NLevels", "classpyneb_1_1core_1_1pynebcore_1_1___atom_data_ascii.html#a4d45fe163c2108853ab418386bf4da56", null ],
+    [ "spec", "classpyneb_1_1core_1_1pynebcore_1_1___atom_data_ascii.html#adaf1b66faf18504ec4b5c8c0b7f6763b", null ],
+    [ "wave_Ang", "classpyneb_1_1core_1_1pynebcore_1_1___atom_data_ascii.html#ab5130f33e76a12670614a4ecf47211b0", null ]
+];

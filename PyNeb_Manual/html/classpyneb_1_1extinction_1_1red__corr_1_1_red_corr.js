@@ -1,0 +1,25 @@
+var classpyneb_1_1extinction_1_1red__corr_1_1_red_corr =
+[
+    [ "__init__", "classpyneb_1_1extinction_1_1red__corr_1_1_red_corr.html#ac775ee34451fdfa742b318538164070e", null ],
+    [ "cHbetaFromEbv", "classpyneb_1_1extinction_1_1red__corr_1_1_red_corr.html#a15b3a29efeb2cf60e199d29814ac220e", null ],
+    [ "EbvFromCHbeta", "classpyneb_1_1extinction_1_1red__corr_1_1_red_corr.html#a4f1fcc53399a219a6c2bebac93fa4140", null ],
+    [ "getCorr", "classpyneb_1_1extinction_1_1red__corr_1_1_red_corr.html#a7f55de02f3ebbced0e315afb1799861f", null ],
+    [ "getCorrHb", "classpyneb_1_1extinction_1_1red__corr_1_1_red_corr.html#a351c7653480349549c3e8999b0078777", null ],
+    [ "getErrCorr", "classpyneb_1_1extinction_1_1red__corr_1_1_red_corr.html#a2d72a98f06c1bf76aa68aa633e0b1495", null ],
+    [ "getErrCorrHb", "classpyneb_1_1extinction_1_1red__corr_1_1_red_corr.html#ae7fe1111f217b216d5ca712349a5290c", null ],
+    [ "getLaws", "classpyneb_1_1extinction_1_1red__corr_1_1_red_corr.html#a52ebb1c85b01df1136b33b9daa746e56", null ],
+    [ "plot", "classpyneb_1_1extinction_1_1red__corr_1_1_red_corr.html#ad6610a83a3f3b201b9029f5ba832bef5", null ],
+    [ "printLaws", "classpyneb_1_1extinction_1_1red__corr_1_1_red_corr.html#a31e90c92561dfe67eabc05d523102dcc", null ],
+    [ "setCorr", "classpyneb_1_1extinction_1_1red__corr_1_1_red_corr.html#af462017f3ae081cfead57fb373d13495", null ],
+    [ "calling", "classpyneb_1_1extinction_1_1red__corr_1_1_red_corr.html#ab25fa7ebe84b603684dee62410c1e34c", null ],
+    [ "FitzParams", "classpyneb_1_1extinction_1_1red__corr_1_1_red_corr.html#a2db36f18d639dd5ae951cddd74bcc613", null ],
+    [ "log_", "classpyneb_1_1extinction_1_1red__corr_1_1_red_corr.html#afd87151907f32bc0dc45f0171b61374e", null ],
+    [ "UserParams", "classpyneb_1_1extinction_1_1red__corr_1_1_red_corr.html#a3b4156da5a457bf68c8b9d9c938edfa4", null ],
+    [ "X", "classpyneb_1_1extinction_1_1red__corr_1_1_red_corr.html#ac51b57a703ba1c5869228690c93e1701", null ],
+    [ "AV", "classpyneb_1_1extinction_1_1red__corr_1_1_red_corr.html#a1b9a68c59df50a1a41c93512931c625d", null ],
+    [ "cHbeta", "classpyneb_1_1extinction_1_1red__corr_1_1_red_corr.html#a50ca368c1b96db154e41c1534fa193cd", null ],
+    [ "E_BV", "classpyneb_1_1extinction_1_1red__corr_1_1_red_corr.html#a97e4002139fdfd6739469528ea43b064", null ],
+    [ "law", "classpyneb_1_1extinction_1_1red__corr_1_1_red_corr.html#ab3fed296830f924db8afe5aeac4904ce", null ],
+    [ "R_V", "classpyneb_1_1extinction_1_1red__corr_1_1_red_corr.html#a9313bb1dc92bcd1947e92d79d23c19a7", null ],
+    [ "UserFunction", "classpyneb_1_1extinction_1_1red__corr_1_1_red_corr.html#a0f4324192e2ead5408d8a1ab24be7e08", null ]
+];
